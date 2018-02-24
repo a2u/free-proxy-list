@@ -5,8 +5,7 @@ Get fresh free proxies.
 ```bash
 curl https://proxy.l337.tech/txt
 ```
-
-<img src="https://proxy.l337.tech/gh.png" /> 
+![Screenshot](https://github.com/DanyaDaro/free-proxy-list/blob/master/github.png?raw=true)
 
 Contact:  
 * Email    : r@inbox.ru
