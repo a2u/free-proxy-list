@@ -6,7 +6,7 @@ Get fresh free proxies.
 curl https://proxy.l337.tech/txt
 ```
 
-<img src="https://proxy.l337.tech/gh.png"> 
+<img src="https://proxy.l337.tech/gh.png" /> 
 
 Contact:  
 * Email    : r@inbox.ru
