@@ -9,4 +9,4 @@ curl https://proxy.l337.tech/txt
 
 Contact:  
 * Email    : r@inbox.ru
-* Telegram : https://t.me/onezeroone
+* Telegram : https://t.me/rudnkh
