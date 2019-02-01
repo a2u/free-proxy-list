@@ -3,9 +3,8 @@ Get fresh free proxies. All proxies in this list are checked for hiding your ip 
 
 ### Usage:
 ```bash
-curl https://proxy.l337.tech/txt
+curl https://proxy.rudnkh.me/txt
 ```
-![Screenshot](https://github.com/DanyaDaro/free-proxy-list/blob/master/github.png?raw=true)
 
 Contact:  
 * Email    : r@inbox.ru
