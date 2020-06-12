@@ -3,9 +3,9 @@ Get fresh SOCKS free proxies. All proxies in this list are checked for hiding yo
 
 ### Usage:
 ```bash
-curl https://proxy.rudnkh.me/txt
+curl https://raw.githubusercontent.com/a2u/free-proxy-list/master/free-proxy-list.txt
 ```
 
 Contact:  
-* Email    : r@inbox.ru
+* Email    : i@rudnkh.me
 * Telegram : https://t.me/rudnkh
