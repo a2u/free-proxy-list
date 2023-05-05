@@ -1,3 +1,5 @@
+## This repository will no longer be updated!!!
+
 # Free Proxy List
 Get fresh SOCKS free proxies. All proxies in this list are checked for hiding your ip address, non-modified html/js code and https protocol support. Updates every hour.
 
